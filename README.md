@@ -16,7 +16,7 @@
 
 ---
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width='250'/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width='270'/>
 
 <div align="center">
   <h3>🛠 &nbsp;Tech Stack</h3>
@@ -30,23 +30,13 @@
   <h3>⚙️ &nbsp;GitHub Analytics</h3>
 </div>
 
-<p align="center">
-<a href="https://github.com/alamdz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alamdz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alamdz&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=alamdz&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</a>
-</p>
-
----
-
 <div align="center">
-  <h3>✍️ &nbsp;Random Dev Quote</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=alamdz&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamdz&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamdz&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /></br>
+  
+  ![snake gif](https://github.com/alamdz/alamdz/blob/output/github-snake-dark.svg)
 </div>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
-</p>
 
 ---
 
@@ -64,6 +54,3 @@
   <br>
   <a href="https://paypal.me/alamdz"><img src="https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff" alt="PayPal"></a>
 </p>
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
